@@ -15,7 +15,7 @@ Public Class MainForm
 
     Public Shared Instance As MainForm
 
-    Private _object As SysSetting   '数据源
+    Private _object As SysSetting   '数据源1
 
     Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
